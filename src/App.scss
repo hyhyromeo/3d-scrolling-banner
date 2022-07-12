@@ -13,10 +13,6 @@
   left: 50%;
   bottom: 10%;
   transform: translateX(-50%);
-  &.inner {
-    transform: translateY(50%) translateX(-50%) rotateY(-90deg) translateX(-50%)
-      rotateY(90deg);
-  }
 }
 .bananaWrap {
   position: relative;
